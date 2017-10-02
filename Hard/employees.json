@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 70000
+    },
+    {
+        "id": 2,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 75000
+    },
+    {
+        "id": 3,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 45000
+    },
+    {
+        "id": 4,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 89000
+    },
+    {
+        "id": 5,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 56000
+    },
+    {
+        "id": 6,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 100000
+    },
+    {
+        "id": 7,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 89000
+    },
+    {
+        "id": 8,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 76000
+    },
+    {
+        "id": 9,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 67000
+    },
+    {
+        "id": 10,
+        "name": "Andy",
+        "department": "sales",
+        "salary": 67000
+    }
+
+]
