@@ -51,6 +51,7 @@ var updateEmployee = (id,body) => {
         fs.writeFile('employees.json',JSON.stringify(newEmployees),(err) => {
             if(err){
                 reject(err);
+            
             }
             
             resolve(_.find(employees,{id: _.toInteger(id)}));
